@@ -16,7 +16,7 @@ How to run the bsq program:
 ```
 
 ## Visualization
-![](BSQproject.gif)
+![](BSQ_project.gif)
 
 ## Project status
 Functionnal except board with 10 000 lines.

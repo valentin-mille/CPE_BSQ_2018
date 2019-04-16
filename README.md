@@ -1,5 +1,5 @@
 # CPE_BSQ_2018
-Algorithme project to find the maximum square.
+Algorithm project to find the maximum square.
 
 ## Description
 Find the largest square on a board that is composed of:
